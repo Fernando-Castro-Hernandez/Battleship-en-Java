@@ -1,0 +1,28 @@
+========================================
+RESULTADO DE PARTIDA
+========================================
+Jugador: fer
+Barcos hundidos (enemigos): 5/5
+Disparos realizados: 55
+Resultado: VICTORIA
+Fecha: 2025-12-01T22:17:24.008238600
+========================================
+
+========================================
+RESULTADO DE PARTIDA
+========================================
+Jugador: humberto
+Barcos hundidos (enemigos): 5/5
+Disparos realizados: 52
+Resultado: VICTORIA
+========================================
+
+========================================
+RESULTADO DE PARTIDA
+========================================
+Jugador: ferchito
+Barcos hundidos (enemigos): 2/5
+Disparos realizados: 40
+Resultado: DERROTA
+========================================
+

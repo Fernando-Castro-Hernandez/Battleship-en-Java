@@ -1,0 +1,5 @@
+20
+
+Este es el número de barcos que se colocarán en el tablero.
+Mínimo 5 barcos.
+Se pueden cambiar la cantidad de barcos poniendo otro número en la primera línea 6, 7, 8, etc...
